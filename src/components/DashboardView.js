@@ -1,4 +1,4 @@
-import { useState } from "react";
+import {React, useState } from "react";
 import { FaSearch, FaEnvelope, FaRegBell } from "react-icons/fa";
 import profile from "../assets/profile.jpg";
 import { BsSearch } from "react-icons/bs";

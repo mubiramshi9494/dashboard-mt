@@ -1,4 +1,4 @@
-import {  useState } from "react";
+import {  React,useState } from "react";
 import computer from "../assets/computer.jpg";
 
 import {
